@@ -1,7 +1,7 @@
- # Wildr
+ # Horizen
 <img src="frontend\public\img\website.png" width="800" alt="Screenshot">
 
-live: https://wildr.onrender.com/
+live: https://horizen-campsite-booking-app.onrender.com/
 
 A React + React-Bootstrap app for discovering and booking campsites.
 

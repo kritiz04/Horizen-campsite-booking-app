@@ -133,7 +133,7 @@ const AboutPage = () => {
           <Row>
             <Col md={4} className="contact-item">
               <FaEnvelope />
-              <a href="mailto:info@woodsandwild.com">info@Wildr.com</a>
+              <a href="mailto:info@woodsandwild.com">info@Horizen.com</a>
             </Col>
             <Col md={4} className="contact-item">
               <FaPhone />
@@ -141,7 +141,7 @@ const AboutPage = () => {
             </Col>
             <Col md={4} className="contact-item">
               <FaMapMarkerAlt />
-              <span>Mathura, Uttar Pradesh, India</span>
+              <span>Shahjhanpur, Uttar Pradesh, India</span>
             </Col>
           </Row>
         </motion.section>

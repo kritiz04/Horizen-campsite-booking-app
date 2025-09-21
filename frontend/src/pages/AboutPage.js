@@ -16,7 +16,7 @@ const sectionVariants = {
 
 const AboutPage = () => {
   const teamMembers = [
-    { name: "Harsh Madhur", role: "CEO & Founder", img: "/img/harsh-madhur.jpg" },
+    { name: "KRITI SAXENA", role: "CEO & Founder"},
    
   ];
 
